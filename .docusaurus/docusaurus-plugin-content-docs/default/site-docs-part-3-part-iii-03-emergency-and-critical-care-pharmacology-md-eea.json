@@ -1,0 +1,25 @@
+{
+  "id": "part-3-part-iii/emergency-and-critical-care-pharmacology",
+  "title": "Emergency and Critical Care Pharmacology",
+  "description": "Content coming soon...",
+  "source": "@site/docs/part-3-part-iii/03-emergency-and-critical-care-pharmacology.md",
+  "sourceDirName": "part-3-part-iii",
+  "slug": "/part-3-part-iii/emergency-and-critical-care-pharmacology",
+  "permalink": "/docs/part-3-part-iii/emergency-and-critical-care-pharmacology",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part-3-part-iii/03-emergency-and-critical-care-pharmacology.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Therapeutic Drug Monitoring (TDM)",
+    "permalink": "/docs/part-3-part-iii/therapeutic-drug-monitoring-tdm"
+  },
+  "next": {
+    "title": "Rational Prescribing in Practice",
+    "permalink": "/docs/part-3-part-iii/rational-prescribing-in-practice"
+  }
+}

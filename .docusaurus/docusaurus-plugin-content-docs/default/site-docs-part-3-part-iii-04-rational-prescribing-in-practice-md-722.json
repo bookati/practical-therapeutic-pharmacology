@@ -1,0 +1,25 @@
+{
+  "id": "part-3-part-iii/rational-prescribing-in-practice",
+  "title": "Rational Prescribing in Practice",
+  "description": "Content coming soon...",
+  "source": "@site/docs/part-3-part-iii/04-rational-prescribing-in-practice.md",
+  "sourceDirName": "part-3-part-iii",
+  "slug": "/part-3-part-iii/rational-prescribing-in-practice",
+  "permalink": "/docs/part-3-part-iii/rational-prescribing-in-practice",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part-3-part-iii/04-rational-prescribing-in-practice.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Emergency and Critical Care Pharmacology",
+    "permalink": "/docs/part-3-part-iii/emergency-and-critical-care-pharmacology"
+  },
+  "next": {
+    "title": "Future of Therapeutic Pharmacology",
+    "permalink": "/docs/part-3-part-iii/future-of-therapeutic-pharmacology"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "part-4-appendices/common-drug-drug-interaction-tables",
+  "title": "Common Drug–Drug Interaction Tables",
+  "description": "Content coming soon...",
+  "source": "@site/docs/part-4-appendices/02-common-drug-drug-interaction-tables.md",
+  "sourceDirName": "part-4-appendices",
+  "slug": "/part-4-appendices/common-drug-drug-interaction-tables",
+  "permalink": "/docs/part-4-appendices/common-drug-drug-interaction-tables",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part-4-appendices/02-common-drug-drug-interaction-tables.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Normal Lab Values Relevant to Drug Therapy",
+    "permalink": "/docs/part-4-appendices/normal-lab-values-relevant-to-drug-therapy"
+  },
+  "next": {
+    "title": "Dosing Adjustments in Renal/Hepatic Impairment",
+    "permalink": "/docs/part-4-appendices/dosing-adjustments-in-renal-hepatic-impairment"
+  }
+}
