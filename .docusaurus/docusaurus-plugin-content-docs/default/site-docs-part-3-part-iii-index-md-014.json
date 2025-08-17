@@ -5,7 +5,7 @@
   "source": "@site/docs/part-3-part-iii/index.md",
   "sourceDirName": "part-3-part-iii",
   "slug": "/part-3-part-iii/",
-  "permalink": "/docs/part-3-part-iii/",
+  "permalink": "/practical-therapeutic-pharmacology/docs/part-3-part-iii/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part-3-part-iii/index.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Dermatological and Musculoskeletal Pharmacology",
-    "permalink": "/docs/part-2-part-ii/dermatological-and-musculoskeletal-pharmacology"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/dermatological-and-musculoskeletal-pharmacology"
   },
   "next": {
     "title": "Drug Interactions in Practice",
-    "permalink": "/docs/part-3-part-iii/drug-interactions-in-practice"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-3-part-iii/drug-interactions-in-practice"
   }
 }

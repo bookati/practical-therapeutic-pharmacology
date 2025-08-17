@@ -5,7 +5,7 @@
   "source": "@site/docs/part-2-part-ii/index.md",
   "sourceDirName": "part-2-part-ii",
   "slug": "/part-2-part-ii/",
-  "permalink": "/docs/part-2-part-ii/",
+  "permalink": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part-2-part-ii/index.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Special Populations in Therapeutic Pharmacology",
-    "permalink": "/docs/part-1-part-i/special-populations-in-therapeutic-pharmacology"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-1-part-i/special-populations-in-therapeutic-pharmacology"
   },
   "next": {
     "title": "Cardiovascular Pharmacology",
-    "permalink": "/docs/part-2-part-ii/cardiovascular-pharmacology"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/cardiovascular-pharmacology"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/part-2-part-ii/08-hematology-and-immunology.md",
   "sourceDirName": "part-2-part-ii",
   "slug": "/part-2-part-ii/hematology-and-immunology",
-  "permalink": "/docs/part-2-part-ii/hematology-and-immunology",
+  "permalink": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/hematology-and-immunology",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part-2-part-ii/08-hematology-and-immunology.md",
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Oncology Pharmacology",
-    "permalink": "/docs/part-2-part-ii/oncology-pharmacology"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/oncology-pharmacology"
   },
   "next": {
     "title": "Renal and Electrolyte Pharmacology",
-    "permalink": "/docs/part-2-part-ii/renal-and-electrolyte-pharmacology"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/renal-and-electrolyte-pharmacology"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/part-2-part-ii/03-endocrine-and-metabolic-disorders.md",
   "sourceDirName": "part-2-part-ii",
   "slug": "/part-2-part-ii/endocrine-and-metabolic-disorders",
-  "permalink": "/docs/part-2-part-ii/endocrine-and-metabolic-disorders",
+  "permalink": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/endocrine-and-metabolic-disorders",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part-2-part-ii/03-endocrine-and-metabolic-disorders.md",
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Respiratory Pharmacology",
-    "permalink": "/docs/part-2-part-ii/respiratory-pharmacology"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/respiratory-pharmacology"
   },
   "next": {
     "title": "Infectious Diseases and Antimicrobial Therapy",
-    "permalink": "/docs/part-2-part-ii/infectious-diseases-and-antimicrobial-therapy"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/infectious-diseases-and-antimicrobial-therapy"
   }
 }

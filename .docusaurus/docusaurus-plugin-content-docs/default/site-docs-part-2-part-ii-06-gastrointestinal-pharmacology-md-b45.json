@@ -5,7 +5,7 @@
   "source": "@site/docs/part-2-part-ii/06-gastrointestinal-pharmacology.md",
   "sourceDirName": "part-2-part-ii",
   "slug": "/part-2-part-ii/gastrointestinal-pharmacology",
-  "permalink": "/docs/part-2-part-ii/gastrointestinal-pharmacology",
+  "permalink": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/gastrointestinal-pharmacology",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part-2-part-ii/06-gastrointestinal-pharmacology.md",
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Central Nervous System Pharmacology",
-    "permalink": "/docs/part-2-part-ii/central-nervous-system-pharmacology"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/central-nervous-system-pharmacology"
   },
   "next": {
     "title": "Oncology Pharmacology",
-    "permalink": "/docs/part-2-part-ii/oncology-pharmacology"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/oncology-pharmacology"
   }
 }

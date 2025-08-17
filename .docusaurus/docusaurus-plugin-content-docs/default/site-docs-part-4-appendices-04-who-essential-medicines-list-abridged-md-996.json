@@ -5,7 +5,7 @@
   "source": "@site/docs/part-4-appendices/04-who-essential-medicines-list-abridged.md",
   "sourceDirName": "part-4-appendices",
   "slug": "/part-4-appendices/who-essential-medicines-list-abridged",
-  "permalink": "/docs/part-4-appendices/who-essential-medicines-list-abridged",
+  "permalink": "/practical-therapeutic-pharmacology/docs/part-4-appendices/who-essential-medicines-list-abridged",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part-4-appendices/04-who-essential-medicines-list-abridged.md",
@@ -16,6 +16,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Dosing Adjustments in Renal/Hepatic Impairment",
-    "permalink": "/docs/part-4-appendices/dosing-adjustments-in-renal-hepatic-impairment"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-4-appendices/dosing-adjustments-in-renal-hepatic-impairment"
   }
 }

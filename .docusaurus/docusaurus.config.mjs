@@ -7,21 +7,13 @@ export default {
   "title": "My Site",
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
-  "url": "https://mohamad-j.github.io",
-  "baseUrl": "/",
-  "organizationName": "mohamad-j",
-  "projectName": "docusaurus-template",
+  "url": "https://bookati.github.io",
+  "baseUrl": "/practical-therapeutic-pharmacology/",
+  "organizationName": "bookati",
+  "projectName": "practical-therapeutic-pharmacology",
   "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "i18n": {
-    "defaultLocale": "en",
-    "locales": [
-      "en"
-    ],
-    "path": "i18n",
-    "localeConfigs": {}
-  },
   "presets": [
     [
       "classic",
@@ -342,6 +334,14 @@ export default {
     }
   },
   "baseUrlIssueBanner": true,
+  "i18n": {
+    "defaultLocale": "en",
+    "path": "i18n",
+    "locales": [
+      "en"
+    ],
+    "localeConfigs": {}
+  },
   "future": {
     "experimental_faster": {
       "swcJsLoader": false,

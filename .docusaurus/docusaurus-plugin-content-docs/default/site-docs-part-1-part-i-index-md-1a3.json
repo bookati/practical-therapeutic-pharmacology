@@ -5,7 +5,7 @@
   "source": "@site/docs/part-1-part-i/index.md",
   "sourceDirName": "part-1-part-i",
   "slug": "/part-1-part-i/",
-  "permalink": "/docs/part-1-part-i/",
+  "permalink": "/practical-therapeutic-pharmacology/docs/part-1-part-i/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part-1-part-i/index.md",
@@ -15,6 +15,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Introduction to Therapeutic Pharmacology",
-    "permalink": "/docs/part-1-part-i/introduction-to-therapeutic-pharmacology"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-1-part-i/introduction-to-therapeutic-pharmacology"
   }
 }

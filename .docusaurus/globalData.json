@@ -1,153 +1,157 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/practical-therapeutic-pharmacology/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/practical-therapeutic-pharmacology/docs",
           "mainDocId": "part-1-part-i/index",
           "docs": [
             {
+              "id": "intro",
+              "path": "/practical-therapeutic-pharmacology/docs/intro"
+            },
+            {
               "id": "part-1-part-i/adverse-drug-reactions-and-safety-monitoring",
-              "path": "/docs/part-1-part-i/adverse-drug-reactions-and-safety-monitoring",
+              "path": "/practical-therapeutic-pharmacology/docs/part-1-part-i/adverse-drug-reactions-and-safety-monitoring",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-1-part-i/index",
-              "path": "/docs/part-1-part-i/",
+              "path": "/practical-therapeutic-pharmacology/docs/part-1-part-i/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-1-part-i/introduction-to-therapeutic-pharmacology",
-              "path": "/docs/part-1-part-i/introduction-to-therapeutic-pharmacology",
+              "path": "/practical-therapeutic-pharmacology/docs/part-1-part-i/introduction-to-therapeutic-pharmacology",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-1-part-i/pharmacodynamics-and-mechanisms-of-action",
-              "path": "/docs/part-1-part-i/pharmacodynamics-and-mechanisms-of-action",
+              "path": "/practical-therapeutic-pharmacology/docs/part-1-part-i/pharmacodynamics-and-mechanisms-of-action",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-1-part-i/pharmacokinetics-in-clinical-practice",
-              "path": "/docs/part-1-part-i/pharmacokinetics-in-clinical-practice",
+              "path": "/practical-therapeutic-pharmacology/docs/part-1-part-i/pharmacokinetics-in-clinical-practice",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-1-part-i/special-populations-in-therapeutic-pharmacology",
-              "path": "/docs/part-1-part-i/special-populations-in-therapeutic-pharmacology",
+              "path": "/practical-therapeutic-pharmacology/docs/part-1-part-i/special-populations-in-therapeutic-pharmacology",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-2-part-ii/cardiovascular-pharmacology",
-              "path": "/docs/part-2-part-ii/cardiovascular-pharmacology",
+              "path": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/cardiovascular-pharmacology",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-2-part-ii/central-nervous-system-pharmacology",
-              "path": "/docs/part-2-part-ii/central-nervous-system-pharmacology",
+              "path": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/central-nervous-system-pharmacology",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-2-part-ii/dermatological-and-musculoskeletal-pharmacology",
-              "path": "/docs/part-2-part-ii/dermatological-and-musculoskeletal-pharmacology",
+              "path": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/dermatological-and-musculoskeletal-pharmacology",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-2-part-ii/endocrine-and-metabolic-disorders",
-              "path": "/docs/part-2-part-ii/endocrine-and-metabolic-disorders",
+              "path": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/endocrine-and-metabolic-disorders",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-2-part-ii/gastrointestinal-pharmacology",
-              "path": "/docs/part-2-part-ii/gastrointestinal-pharmacology",
+              "path": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/gastrointestinal-pharmacology",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-2-part-ii/hematology-and-immunology",
-              "path": "/docs/part-2-part-ii/hematology-and-immunology",
+              "path": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/hematology-and-immunology",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-2-part-ii/index",
-              "path": "/docs/part-2-part-ii/",
+              "path": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-2-part-ii/infectious-diseases-and-antimicrobial-therapy",
-              "path": "/docs/part-2-part-ii/infectious-diseases-and-antimicrobial-therapy",
+              "path": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/infectious-diseases-and-antimicrobial-therapy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-2-part-ii/oncology-pharmacology",
-              "path": "/docs/part-2-part-ii/oncology-pharmacology",
+              "path": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/oncology-pharmacology",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-2-part-ii/renal-and-electrolyte-pharmacology",
-              "path": "/docs/part-2-part-ii/renal-and-electrolyte-pharmacology",
+              "path": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/renal-and-electrolyte-pharmacology",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-2-part-ii/respiratory-pharmacology",
-              "path": "/docs/part-2-part-ii/respiratory-pharmacology",
+              "path": "/practical-therapeutic-pharmacology/docs/part-2-part-ii/respiratory-pharmacology",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-3-part-iii/drug-interactions-in-practice",
-              "path": "/docs/part-3-part-iii/drug-interactions-in-practice",
+              "path": "/practical-therapeutic-pharmacology/docs/part-3-part-iii/drug-interactions-in-practice",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-3-part-iii/emergency-and-critical-care-pharmacology",
-              "path": "/docs/part-3-part-iii/emergency-and-critical-care-pharmacology",
+              "path": "/practical-therapeutic-pharmacology/docs/part-3-part-iii/emergency-and-critical-care-pharmacology",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-3-part-iii/future-of-therapeutic-pharmacology",
-              "path": "/docs/part-3-part-iii/future-of-therapeutic-pharmacology",
+              "path": "/practical-therapeutic-pharmacology/docs/part-3-part-iii/future-of-therapeutic-pharmacology",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-3-part-iii/index",
-              "path": "/docs/part-3-part-iii/",
+              "path": "/practical-therapeutic-pharmacology/docs/part-3-part-iii/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-3-part-iii/rational-prescribing-in-practice",
-              "path": "/docs/part-3-part-iii/rational-prescribing-in-practice",
+              "path": "/practical-therapeutic-pharmacology/docs/part-3-part-iii/rational-prescribing-in-practice",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-3-part-iii/therapeutic-drug-monitoring-tdm",
-              "path": "/docs/part-3-part-iii/therapeutic-drug-monitoring-tdm",
+              "path": "/practical-therapeutic-pharmacology/docs/part-3-part-iii/therapeutic-drug-monitoring-tdm",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-4-appendices/common-drug-drug-interaction-tables",
-              "path": "/docs/part-4-appendices/common-drug-drug-interaction-tables",
+              "path": "/practical-therapeutic-pharmacology/docs/part-4-appendices/common-drug-drug-interaction-tables",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-4-appendices/dosing-adjustments-in-renal-hepatic-impairment",
-              "path": "/docs/part-4-appendices/dosing-adjustments-in-renal-hepatic-impairment",
+              "path": "/practical-therapeutic-pharmacology/docs/part-4-appendices/dosing-adjustments-in-renal-hepatic-impairment",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-4-appendices/index",
-              "path": "/docs/part-4-appendices/",
+              "path": "/practical-therapeutic-pharmacology/docs/part-4-appendices/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-4-appendices/normal-lab-values-relevant-to-drug-therapy",
-              "path": "/docs/part-4-appendices/normal-lab-values-relevant-to-drug-therapy",
+              "path": "/practical-therapeutic-pharmacology/docs/part-4-appendices/normal-lab-values-relevant-to-drug-therapy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "part-4-appendices/who-essential-medicines-list-abridged",
-              "path": "/docs/part-4-appendices/who-essential-medicines-list-abridged",
+              "path": "/practical-therapeutic-pharmacology/docs/part-4-appendices/who-essential-medicines-list-abridged",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -155,7 +159,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/part-1-part-i/",
+                "path": "/practical-therapeutic-pharmacology/docs/part-1-part-i/",
                 "label": "Part I – Foundations of Therapeutic Pharmacology"
               }
             }

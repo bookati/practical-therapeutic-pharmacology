@@ -5,7 +5,7 @@
   "source": "@site/docs/part-1-part-i/04-adverse-drug-reactions-and-safety-monitoring.md",
   "sourceDirName": "part-1-part-i",
   "slug": "/part-1-part-i/adverse-drug-reactions-and-safety-monitoring",
-  "permalink": "/docs/part-1-part-i/adverse-drug-reactions-and-safety-monitoring",
+  "permalink": "/practical-therapeutic-pharmacology/docs/part-1-part-i/adverse-drug-reactions-and-safety-monitoring",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part-1-part-i/04-adverse-drug-reactions-and-safety-monitoring.md",
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Pharmacodynamics and Mechanisms of Action",
-    "permalink": "/docs/part-1-part-i/pharmacodynamics-and-mechanisms-of-action"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-1-part-i/pharmacodynamics-and-mechanisms-of-action"
   },
   "next": {
     "title": "Special Populations in Therapeutic Pharmacology",
-    "permalink": "/docs/part-1-part-i/special-populations-in-therapeutic-pharmacology"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-1-part-i/special-populations-in-therapeutic-pharmacology"
   }
 }

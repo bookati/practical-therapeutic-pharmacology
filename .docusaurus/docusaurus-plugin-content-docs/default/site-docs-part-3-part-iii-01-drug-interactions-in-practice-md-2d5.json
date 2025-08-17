@@ -5,7 +5,7 @@
   "source": "@site/docs/part-3-part-iii/01-drug-interactions-in-practice.md",
   "sourceDirName": "part-3-part-iii",
   "slug": "/part-3-part-iii/drug-interactions-in-practice",
-  "permalink": "/docs/part-3-part-iii/drug-interactions-in-practice",
+  "permalink": "/practical-therapeutic-pharmacology/docs/part-3-part-iii/drug-interactions-in-practice",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part-3-part-iii/01-drug-interactions-in-practice.md",
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Part III – Practical Aspects of Drug Therapy",
-    "permalink": "/docs/part-3-part-iii/"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-3-part-iii/"
   },
   "next": {
     "title": "Therapeutic Drug Monitoring (TDM)",
-    "permalink": "/docs/part-3-part-iii/therapeutic-drug-monitoring-tdm"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-3-part-iii/therapeutic-drug-monitoring-tdm"
   }
 }

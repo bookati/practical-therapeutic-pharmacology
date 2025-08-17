@@ -5,7 +5,7 @@
   "source": "@site/docs/part-4-appendices/index.md",
   "sourceDirName": "part-4-appendices",
   "slug": "/part-4-appendices/",
-  "permalink": "/docs/part-4-appendices/",
+  "permalink": "/practical-therapeutic-pharmacology/docs/part-4-appendices/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part-4-appendices/index.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Future of Therapeutic Pharmacology",
-    "permalink": "/docs/part-3-part-iii/future-of-therapeutic-pharmacology"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-3-part-iii/future-of-therapeutic-pharmacology"
   },
   "next": {
     "title": "Normal Lab Values Relevant to Drug Therapy",
-    "permalink": "/docs/part-4-appendices/normal-lab-values-relevant-to-drug-therapy"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-4-appendices/normal-lab-values-relevant-to-drug-therapy"
   }
 }

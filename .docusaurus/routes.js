@@ -3,292 +3,262 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    path: '/practical-therapeutic-pharmacology/blog',
+    component: ComponentCreator('/practical-therapeutic-pharmacology/blog', '6f4'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    path: '/practical-therapeutic-pharmacology/blog/archive',
+    component: ComponentCreator('/practical-therapeutic-pharmacology/blog/archive', '046'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    path: '/practical-therapeutic-pharmacology/blog/authors',
+    component: ComponentCreator('/practical-therapeutic-pharmacology/blog/authors', '26b'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    path: '/practical-therapeutic-pharmacology/blog/authors/all-sebastien-lorber-articles',
+    component: ComponentCreator('/practical-therapeutic-pharmacology/blog/authors/all-sebastien-lorber-articles', 'b80'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    path: '/practical-therapeutic-pharmacology/blog/authors/yangshun',
+    component: ComponentCreator('/practical-therapeutic-pharmacology/blog/authors/yangshun', '96d'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    path: '/practical-therapeutic-pharmacology/blog/first-blog-post',
+    component: ComponentCreator('/practical-therapeutic-pharmacology/blog/first-blog-post', '760'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    path: '/practical-therapeutic-pharmacology/blog/long-blog-post',
+    component: ComponentCreator('/practical-therapeutic-pharmacology/blog/long-blog-post', '7e7'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'b2f'),
+    path: '/practical-therapeutic-pharmacology/blog/mdx-blog-post',
+    component: ComponentCreator('/practical-therapeutic-pharmacology/blog/mdx-blog-post', '1dc'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
+    path: '/practical-therapeutic-pharmacology/blog/tags',
+    component: ComponentCreator('/practical-therapeutic-pharmacology/blog/tags', '2d3'),
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
+    path: '/practical-therapeutic-pharmacology/blog/tags/docusaurus',
+    component: ComponentCreator('/practical-therapeutic-pharmacology/blog/tags/docusaurus', '1b3'),
     exact: true
   },
   {
-    path: '/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '4a1'),
+    path: '/practical-therapeutic-pharmacology/blog/tags/facebook',
+    component: ComponentCreator('/practical-therapeutic-pharmacology/blog/tags/facebook', '40b'),
     exact: true
   },
   {
-    path: '/blog/authors/yangshun',
-    component: ComponentCreator('/blog/authors/yangshun', 'a68'),
+    path: '/practical-therapeutic-pharmacology/blog/tags/hello',
+    component: ComponentCreator('/practical-therapeutic-pharmacology/blog/tags/hello', 'cbf'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '89a'),
+    path: '/practical-therapeutic-pharmacology/blog/tags/hola',
+    component: ComponentCreator('/practical-therapeutic-pharmacology/blog/tags/hola', '9f6'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '9ad'),
+    path: '/practical-therapeutic-pharmacology/blog/welcome',
+    component: ComponentCreator('/practical-therapeutic-pharmacology/blog/welcome', '010'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'e9f'),
+    path: '/practical-therapeutic-pharmacology/markdown-page',
+    component: ComponentCreator('/practical-therapeutic-pharmacology/markdown-page', 'e00'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '704'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '858'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '299'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '00d'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'd2b'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'c33'),
+    path: '/practical-therapeutic-pharmacology/docs',
+    component: ComponentCreator('/practical-therapeutic-pharmacology/docs', '272'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', 'cbe'),
+        path: '/practical-therapeutic-pharmacology/docs',
+        component: ComponentCreator('/practical-therapeutic-pharmacology/docs', 'ab7'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', '1aa'),
+            path: '/practical-therapeutic-pharmacology/docs',
+            component: ComponentCreator('/practical-therapeutic-pharmacology/docs', '726'),
             routes: [
               {
-                path: '/docs/part-1-part-i',
-                component: ComponentCreator('/docs/part-1-part-i', '7fa'),
+                path: '/practical-therapeutic-pharmacology/docs/intro',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/intro', 'bd1'),
+                exact: true
+              },
+              {
+                path: '/practical-therapeutic-pharmacology/docs/part-1-part-i',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-1-part-i', '79c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-1-part-i/adverse-drug-reactions-and-safety-monitoring',
-                component: ComponentCreator('/docs/part-1-part-i/adverse-drug-reactions-and-safety-monitoring', 'fb3'),
+                path: '/practical-therapeutic-pharmacology/docs/part-1-part-i/adverse-drug-reactions-and-safety-monitoring',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-1-part-i/adverse-drug-reactions-and-safety-monitoring', '6e5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-1-part-i/introduction-to-therapeutic-pharmacology',
-                component: ComponentCreator('/docs/part-1-part-i/introduction-to-therapeutic-pharmacology', 'f46'),
+                path: '/practical-therapeutic-pharmacology/docs/part-1-part-i/introduction-to-therapeutic-pharmacology',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-1-part-i/introduction-to-therapeutic-pharmacology', 'd34'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-1-part-i/pharmacodynamics-and-mechanisms-of-action',
-                component: ComponentCreator('/docs/part-1-part-i/pharmacodynamics-and-mechanisms-of-action', 'c27'),
+                path: '/practical-therapeutic-pharmacology/docs/part-1-part-i/pharmacodynamics-and-mechanisms-of-action',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-1-part-i/pharmacodynamics-and-mechanisms-of-action', '1f7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-1-part-i/pharmacokinetics-in-clinical-practice',
-                component: ComponentCreator('/docs/part-1-part-i/pharmacokinetics-in-clinical-practice', 'ed6'),
+                path: '/practical-therapeutic-pharmacology/docs/part-1-part-i/pharmacokinetics-in-clinical-practice',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-1-part-i/pharmacokinetics-in-clinical-practice', 'b87'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-1-part-i/special-populations-in-therapeutic-pharmacology',
-                component: ComponentCreator('/docs/part-1-part-i/special-populations-in-therapeutic-pharmacology', 'd5d'),
+                path: '/practical-therapeutic-pharmacology/docs/part-1-part-i/special-populations-in-therapeutic-pharmacology',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-1-part-i/special-populations-in-therapeutic-pharmacology', '0aa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-2-part-ii',
-                component: ComponentCreator('/docs/part-2-part-ii', 'da3'),
+                path: '/practical-therapeutic-pharmacology/docs/part-2-part-ii',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-2-part-ii', '943'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-2-part-ii/cardiovascular-pharmacology',
-                component: ComponentCreator('/docs/part-2-part-ii/cardiovascular-pharmacology', '3f8'),
+                path: '/practical-therapeutic-pharmacology/docs/part-2-part-ii/cardiovascular-pharmacology',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-2-part-ii/cardiovascular-pharmacology', '7da'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-2-part-ii/central-nervous-system-pharmacology',
-                component: ComponentCreator('/docs/part-2-part-ii/central-nervous-system-pharmacology', 'd59'),
+                path: '/practical-therapeutic-pharmacology/docs/part-2-part-ii/central-nervous-system-pharmacology',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-2-part-ii/central-nervous-system-pharmacology', '8fb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-2-part-ii/dermatological-and-musculoskeletal-pharmacology',
-                component: ComponentCreator('/docs/part-2-part-ii/dermatological-and-musculoskeletal-pharmacology', '7a5'),
+                path: '/practical-therapeutic-pharmacology/docs/part-2-part-ii/dermatological-and-musculoskeletal-pharmacology',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-2-part-ii/dermatological-and-musculoskeletal-pharmacology', 'e92'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-2-part-ii/endocrine-and-metabolic-disorders',
-                component: ComponentCreator('/docs/part-2-part-ii/endocrine-and-metabolic-disorders', 'c80'),
+                path: '/practical-therapeutic-pharmacology/docs/part-2-part-ii/endocrine-and-metabolic-disorders',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-2-part-ii/endocrine-and-metabolic-disorders', 'a08'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-2-part-ii/gastrointestinal-pharmacology',
-                component: ComponentCreator('/docs/part-2-part-ii/gastrointestinal-pharmacology', '4f5'),
+                path: '/practical-therapeutic-pharmacology/docs/part-2-part-ii/gastrointestinal-pharmacology',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-2-part-ii/gastrointestinal-pharmacology', 'f29'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-2-part-ii/hematology-and-immunology',
-                component: ComponentCreator('/docs/part-2-part-ii/hematology-and-immunology', '0be'),
+                path: '/practical-therapeutic-pharmacology/docs/part-2-part-ii/hematology-and-immunology',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-2-part-ii/hematology-and-immunology', '060'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-2-part-ii/infectious-diseases-and-antimicrobial-therapy',
-                component: ComponentCreator('/docs/part-2-part-ii/infectious-diseases-and-antimicrobial-therapy', '6cb'),
+                path: '/practical-therapeutic-pharmacology/docs/part-2-part-ii/infectious-diseases-and-antimicrobial-therapy',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-2-part-ii/infectious-diseases-and-antimicrobial-therapy', '366'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-2-part-ii/oncology-pharmacology',
-                component: ComponentCreator('/docs/part-2-part-ii/oncology-pharmacology', 'd2a'),
+                path: '/practical-therapeutic-pharmacology/docs/part-2-part-ii/oncology-pharmacology',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-2-part-ii/oncology-pharmacology', 'b26'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-2-part-ii/renal-and-electrolyte-pharmacology',
-                component: ComponentCreator('/docs/part-2-part-ii/renal-and-electrolyte-pharmacology', 'fb5'),
+                path: '/practical-therapeutic-pharmacology/docs/part-2-part-ii/renal-and-electrolyte-pharmacology',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-2-part-ii/renal-and-electrolyte-pharmacology', 'fba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-2-part-ii/respiratory-pharmacology',
-                component: ComponentCreator('/docs/part-2-part-ii/respiratory-pharmacology', '844'),
+                path: '/practical-therapeutic-pharmacology/docs/part-2-part-ii/respiratory-pharmacology',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-2-part-ii/respiratory-pharmacology', '7f2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-3-part-iii',
-                component: ComponentCreator('/docs/part-3-part-iii', 'd5f'),
+                path: '/practical-therapeutic-pharmacology/docs/part-3-part-iii',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-3-part-iii', 'a8d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-3-part-iii/drug-interactions-in-practice',
-                component: ComponentCreator('/docs/part-3-part-iii/drug-interactions-in-practice', '757'),
+                path: '/practical-therapeutic-pharmacology/docs/part-3-part-iii/drug-interactions-in-practice',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-3-part-iii/drug-interactions-in-practice', '865'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-3-part-iii/emergency-and-critical-care-pharmacology',
-                component: ComponentCreator('/docs/part-3-part-iii/emergency-and-critical-care-pharmacology', 'f1e'),
+                path: '/practical-therapeutic-pharmacology/docs/part-3-part-iii/emergency-and-critical-care-pharmacology',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-3-part-iii/emergency-and-critical-care-pharmacology', 'cea'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-3-part-iii/future-of-therapeutic-pharmacology',
-                component: ComponentCreator('/docs/part-3-part-iii/future-of-therapeutic-pharmacology', '64e'),
+                path: '/practical-therapeutic-pharmacology/docs/part-3-part-iii/future-of-therapeutic-pharmacology',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-3-part-iii/future-of-therapeutic-pharmacology', '632'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-3-part-iii/rational-prescribing-in-practice',
-                component: ComponentCreator('/docs/part-3-part-iii/rational-prescribing-in-practice', '6b8'),
+                path: '/practical-therapeutic-pharmacology/docs/part-3-part-iii/rational-prescribing-in-practice',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-3-part-iii/rational-prescribing-in-practice', 'e22'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-3-part-iii/therapeutic-drug-monitoring-tdm',
-                component: ComponentCreator('/docs/part-3-part-iii/therapeutic-drug-monitoring-tdm', 'c43'),
+                path: '/practical-therapeutic-pharmacology/docs/part-3-part-iii/therapeutic-drug-monitoring-tdm',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-3-part-iii/therapeutic-drug-monitoring-tdm', 'e61'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-4-appendices',
-                component: ComponentCreator('/docs/part-4-appendices', '70b'),
+                path: '/practical-therapeutic-pharmacology/docs/part-4-appendices',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-4-appendices', 'fd7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-4-appendices/common-drug-drug-interaction-tables',
-                component: ComponentCreator('/docs/part-4-appendices/common-drug-drug-interaction-tables', '4c0'),
+                path: '/practical-therapeutic-pharmacology/docs/part-4-appendices/common-drug-drug-interaction-tables',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-4-appendices/common-drug-drug-interaction-tables', 'b88'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-4-appendices/dosing-adjustments-in-renal-hepatic-impairment',
-                component: ComponentCreator('/docs/part-4-appendices/dosing-adjustments-in-renal-hepatic-impairment', 'ebe'),
+                path: '/practical-therapeutic-pharmacology/docs/part-4-appendices/dosing-adjustments-in-renal-hepatic-impairment',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-4-appendices/dosing-adjustments-in-renal-hepatic-impairment', 'bd5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-4-appendices/normal-lab-values-relevant-to-drug-therapy',
-                component: ComponentCreator('/docs/part-4-appendices/normal-lab-values-relevant-to-drug-therapy', 'c63'),
+                path: '/practical-therapeutic-pharmacology/docs/part-4-appendices/normal-lab-values-relevant-to-drug-therapy',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-4-appendices/normal-lab-values-relevant-to-drug-therapy', '9ad'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/part-4-appendices/who-essential-medicines-list-abridged',
-                component: ComponentCreator('/docs/part-4-appendices/who-essential-medicines-list-abridged', '56c'),
+                path: '/practical-therapeutic-pharmacology/docs/part-4-appendices/who-essential-medicines-list-abridged',
+                component: ComponentCreator('/practical-therapeutic-pharmacology/docs/part-4-appendices/who-essential-medicines-list-abridged', '0c6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -299,8 +269,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/practical-therapeutic-pharmacology/',
+    component: ComponentCreator('/practical-therapeutic-pharmacology/', 'c40'),
     exact: true
   },
   {

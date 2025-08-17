@@ -5,7 +5,7 @@
   "source": "@site/docs/part-4-appendices/03-dosing-adjustments-in-renal-hepatic-impairment.md",
   "sourceDirName": "part-4-appendices",
   "slug": "/part-4-appendices/dosing-adjustments-in-renal-hepatic-impairment",
-  "permalink": "/docs/part-4-appendices/dosing-adjustments-in-renal-hepatic-impairment",
+  "permalink": "/practical-therapeutic-pharmacology/docs/part-4-appendices/dosing-adjustments-in-renal-hepatic-impairment",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part-4-appendices/03-dosing-adjustments-in-renal-hepatic-impairment.md",
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Common Drug–Drug Interaction Tables",
-    "permalink": "/docs/part-4-appendices/common-drug-drug-interaction-tables"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-4-appendices/common-drug-drug-interaction-tables"
   },
   "next": {
     "title": "WHO Essential Medicines List (Abridged)",
-    "permalink": "/docs/part-4-appendices/who-essential-medicines-list-abridged"
+    "permalink": "/practical-therapeutic-pharmacology/docs/part-4-appendices/who-essential-medicines-list-abridged"
   }
 }
