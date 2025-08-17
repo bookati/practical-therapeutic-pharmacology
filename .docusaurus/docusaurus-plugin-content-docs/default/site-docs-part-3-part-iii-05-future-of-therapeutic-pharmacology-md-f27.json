@@ -1,0 +1,25 @@
+{
+  "id": "part-3-part-iii/future-of-therapeutic-pharmacology",
+  "title": "Future of Therapeutic Pharmacology",
+  "description": "Content coming soon...",
+  "source": "@site/docs/part-3-part-iii/05-future-of-therapeutic-pharmacology.md",
+  "sourceDirName": "part-3-part-iii",
+  "slug": "/part-3-part-iii/future-of-therapeutic-pharmacology",
+  "permalink": "/docs/part-3-part-iii/future-of-therapeutic-pharmacology",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part-3-part-iii/05-future-of-therapeutic-pharmacology.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rational Prescribing in Practice",
+    "permalink": "/docs/part-3-part-iii/rational-prescribing-in-practice"
+  },
+  "next": {
+    "title": "Appendices",
+    "permalink": "/docs/part-4-appendices/"
+  }
+}

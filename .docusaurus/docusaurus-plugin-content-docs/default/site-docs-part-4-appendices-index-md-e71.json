@@ -1,0 +1,24 @@
+{
+  "id": "part-4-appendices/index",
+  "title": "Appendices",
+  "description": "Overview of Appendices.",
+  "source": "@site/docs/part-4-appendices/index.md",
+  "sourceDirName": "part-4-appendices",
+  "slug": "/part-4-appendices/",
+  "permalink": "/docs/part-4-appendices/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part-4-appendices/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Future of Therapeutic Pharmacology",
+    "permalink": "/docs/part-3-part-iii/future-of-therapeutic-pharmacology"
+  },
+  "next": {
+    "title": "Normal Lab Values Relevant to Drug Therapy",
+    "permalink": "/docs/part-4-appendices/normal-lab-values-relevant-to-drug-therapy"
+  }
+}

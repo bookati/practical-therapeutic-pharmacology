@@ -1,0 +1,25 @@
+{
+  "id": "part-1-part-i/pharmacodynamics-and-mechanisms-of-action",
+  "title": "Pharmacodynamics and Mechanisms of Action",
+  "description": "Content coming soon...",
+  "source": "@site/docs/part-1-part-i/03-pharmacodynamics-and-mechanisms-of-action.md",
+  "sourceDirName": "part-1-part-i",
+  "slug": "/part-1-part-i/pharmacodynamics-and-mechanisms-of-action",
+  "permalink": "/docs/part-1-part-i/pharmacodynamics-and-mechanisms-of-action",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part-1-part-i/03-pharmacodynamics-and-mechanisms-of-action.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pharmacokinetics in Clinical Practice",
+    "permalink": "/docs/part-1-part-i/pharmacokinetics-in-clinical-practice"
+  },
+  "next": {
+    "title": "Adverse Drug Reactions and Safety Monitoring",
+    "permalink": "/docs/part-1-part-i/adverse-drug-reactions-and-safety-monitoring"
+  }
+}
