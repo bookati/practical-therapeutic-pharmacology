@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpharma_book=self.webpackChunkpharma_book||[]).push([[7560],{8419:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/practical-therapeutic-pharmacology/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
